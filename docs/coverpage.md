@@ -10,4 +10,4 @@
 - 仅供参考、请仔细核实后操作
 
 [进入系统](quick-start)
-[制作团队](https://github.com/jhildenbiddle/docsify-themeable)
+[制作团队](#)
